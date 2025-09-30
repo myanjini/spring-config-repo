@@ -2,4 +2,4 @@ spring:
     application:
         name: catalog-service-DEV
 custom:
-    name: develop
+    name: development

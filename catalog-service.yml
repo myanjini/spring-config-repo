@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Catalog
+    name: catalog-service
   # profiles:
   #   active:
   #   - prod

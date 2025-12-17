@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Catalog
+  profiles:
+    active:
+    - prod
+server:
+  port: 8081
